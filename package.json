@@ -1,0 +1,10 @@
+{
+	"name":        "vbb-delays-list",
+	"description": "Statistics on delays at VBB stations.",
+	"version":     "0.1.0",
+	"author":      "Jannis R <mail@jannisr.de>",
+	"homepage":    "https://github.com/derhuerst/vbb-delays-list",
+	"repository":  "derhuerst/vbb-delays-list",
+	"bugs":        "https://github.com/derhuerst/vbb-delays-list/issues",
+	"license":     "ISC"
+}
