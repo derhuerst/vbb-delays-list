@@ -1,0 +1,55 @@
+body {
+	margin: 0 auto; padding: 0 2vw; max-width: 30em;
+	font-size: 100%; font-size: calc(.3em + 1vw);
+	font-family: sans-serif }
+
+h1 {
+	margin: 1rem 0;
+	text-align: center;
+	font-size: 2em;
+}
+h2 { margin: 1rem 0; font-size: 1em }
+a { text-decoration: none; color: #2980b9 }
+a:hover { text-decoration: underline }
+
+abbr { cursor: help; }
+
+table {
+	margin: 1rem 0;
+	border-spacing: 0;
+	width: 100%;
+}
+
+table thead th {
+	padding: .4em .3em;
+	font-weight: normal;
+	color: white;
+	background-color: #2980b9;
+}
+
+table tbody tr:nth-child(odd) {
+	background-color: #ebebeb;
+}
+table tbody td {
+	padding: .4em .3em;
+}
+
+table thead th.station,
+table tbody td.station,
+table thead th.line,
+table tbody td.line {
+	text-align: left;
+}
+
+table thead th.delayed,
+table tbody td.delayed,
+table thead th.total,
+table tbody td.total,
+table thead th.mean,
+table tbody td.mean {
+	text-align: right;
+}
+
+ul#platforms { padding: 0; list-style: none }
+footer { margin-top: 6rem; text-align: center }
+span.love { font-size: 120%; color: #e74c3c }

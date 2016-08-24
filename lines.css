@@ -1,0 +1,55 @@
+.suburban, .subway, .tram {
+	padding: .15em .2em 0em .2em;
+	line-height: 1;
+	color: #fff;
+	background-color: #555
+}
+
+.suburban.s1  { background-color: #de4da4 }
+.suburban.s2  { background-color: #005f27 }
+.suburban.s3  { background-color: #0a4c99 }
+.suburban.s5  { background-color: #ff5900 }
+.suburban.s7  { background-color: #6f4e9c }
+.suburban.s8  { background-color: #55a822 }
+.suburban.s9  { background-color: #8a0e30 }
+.suburban.s25 { background-color: #005f27 }
+.suburban.s41 { background-color: #a23b1e }
+.suburban.s42 { background-color: #c26a36 }
+.suburban.s45 { background-color: #c38737 }
+.suburban.s46 { background-color: #c38737 }
+.suburban.s75 { background-color: #6f4e9c }
+.suburban.s85 { background-color: #55a822 }
+
+.subway.u1  { background-color: #55a822 }
+.subway.u2  { background-color: #ff3300 }
+.subway.u3  { background-color: #019377 }
+.subway.u4  { color: #000; background-color: #ffd900 }
+.subway.u5  { background-color: #672f17 }
+.subway.u6  { background-color: #6f4e9c }
+.subway.u7  { background-color: #3690c0 }
+.subway.u8  { background-color: #0a3c85 }
+.subway.u9  { background-color: #ff7300 }
+.subway.u55 { background-color: #672f17 }
+
+.tram.m1  { background-color: #ed9222 }
+.tram.m2  { background-color: #7eb43d }
+.tram.m4  { background-color: #d01c22 }
+.tram.m5  { background-color: #c48946 }
+.tram.m6  { background-color: #01609c }
+.tram.m8  { background-color: #f47922 }
+.tram.m10 { background-color: #00844a }
+.tram.m13 { background-color: #16a696 }
+.tram.m17 { background-color: #a74b38 }
+.tram.12  { background-color: #6c5b98 }
+.tram.16  { background-color: #01609c }
+.tram.19  { background-color: #f47922 }
+.tram.21  { background-color: #6c5b98 }
+.tram.27  { background-color: #7e3e2e }
+.tram.37  { background-color: #a74b38 }
+.tram.50  { background-color: #16a696 }
+.tram.60  { background-color: #069edb }
+.tram.61  { background-color: #ee1c25 }
+.tram.62  { background-color: #005332 }
+.tram.63  { background-color: #f47922 }
+.tram.67  { background-color: #3c733c }
+.tram.68  { background-color: #5fbb46 }
